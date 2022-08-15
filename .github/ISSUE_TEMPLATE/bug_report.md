@@ -1,16 +1,16 @@
 ---
-name: Hard Crash
-about: Choose this if the app closed unexpectedly after doing something
-title: Hard Crash.
-labels: "Hard Crash\U0001F975"
+name: Bug report
+about: Choose this if you think the app did something wrong, or unexpected
+title: Bug.
+labels: "bug\U0001F41E"
 assignees: ShaharMS
 
 ---
 
-**Describe the crash**
-A clear description of the crash, and what happened before it.
+**Describe the bug**
+A clear and concise description of what the bug is.
 
-**To Reproduce**
+**How To Reproduce**
 Steps to reproduce the behavior:
 1. Go to '...'
 2. Click on '....'
@@ -18,7 +18,7 @@ Steps to reproduce the behavior:
 4. See error
 
 **Expected behavior**
-A clear description of what you expected to happen.
+A clear and concise description of what you expected to happen.
 
 **What Currently Happens**
 A clear and concise description of what currently happens.
