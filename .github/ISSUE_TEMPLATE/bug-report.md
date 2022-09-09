@@ -28,8 +28,9 @@ If applicable, add screenshots and/or videos to help explain your problem.
 To add images and videos, simply drag and drop them here
 
 **Extra Information (please complete the following information):**
- - OS: [e.g. Windows, Linux-Arch]
+ - OS: [e.g. Windows, Linux-Arch]:
  - App Version [e.g. beta-1.0.1, 1.0.0]:
+ - Web Browser [e.g. FireFox, Chrome] (for online version only):
 
 **Additional context**
 Add any other context about the problem here.
