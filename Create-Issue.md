@@ -19,5 +19,10 @@ button inside the tab you chose.
 
 3. To proceed, choose the link that matches your issue type:
 
- - <a href="#bug-report" id="bug-report">Bug Report 🐞</a>
+ - <a href="#bug-report" id="bug-report">Bug Report</a>
+ - <a href="#feature-request" id="feature-request">Feature Request</a>
+ - <a href="#graphical-update-addition" id="graphical-update-addition">Graphical Update/Addition</a>
+ - <a href="#hard-crash" id="hard-crash">Hard Crash</a>
+ - <a href="#question" id="question">Question</a>
+ - <a href="#starting" id="starting">Go Back</a>
 
